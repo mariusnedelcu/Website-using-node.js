@@ -1,0 +1,113 @@
+[
+    {
+        "intrebare":"La intersecţia nedirijată dintre un drum naţional şi unul judeţean, comunal sau local, prioritatea de trecere se acordă:", 
+        "variante" : ["vehiculelor care circulă pe drumul judeţean, comunal sau local;","vehiculelor care vin din dreapta;","vehiculelor care circulă pe drumul naţional;"],
+        "corect" : 1
+    },
+    {
+        "intrebare":"Pe drumul public cu cel mult două benzi pe sens şi cu o a treia bandă pe care este amplasată linia tramvaiului lângă axa drumului, conducătorii de vehicule:", 
+        "variante" : ["pot folosi banda pe care este amplasată linia tramvaiului, fără să incomodeze circulaţia acestuia;","nu pot folosi banda pe care este amplasată linia tramvaiului;","legal, nu este prevăzut;"],
+        "corect" : 1
+    },
+    {
+        "intrebare":"Care este denumirea indicatorului?", 
+        "variante" : ["sens giratoriu;","punct de colectare a materialelor reciclabile;","presemnalizarea unei intersecţii cu sens giratoriu;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Ce obligaţii revin conducătorilor de vehicule la trecerea autovehiculelor cu regim de circulaţie prioritară, care au în funcţiune mijloacele speciale de avertizare luminoasă de culoare roşie şi pe cele de avertizare sonoră:", 
+        "variante" : ["să oprească imediat pe acostament sau, în lipsa acestuia, cât mai aproape de marginea drumului sau de bordura trotuarului, în sensul de deplasare;","să reducă viteza şi să circule cât mai aproape de marginea drumului în sensul de deplasare;","să scoată vehiculul în afara drumului, indiferent prin ce mijloace;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Cum procedaţi în situaţia în care observaţi în faţa dvs. o minge care se rostogoleşte?", 
+        "variante" : ["continuaţi să circulaţi cu aceeaşi viteză, întrucât trecerea peste minge nu este periculoasă pentru autovehicul;",
+            "semnalizaţi sonor, reduceţi viteza şi circulaţi cu maximă atenţie, întrucât este foarte posibil să apară un copil după minge;",
+            "viraţi brusc în direcţia opusă de rostogolire a mingii;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Care este poziţia corectă a conducătorului auto în timpul conducerii?", 
+        "variante" : ["să fie cât mai concentrat, să ţină volanul strâns şi privirea îndreptată numai înainte şi să stea cât mai aproape de parbriz;",
+            "să stea cât mai confortabil pe scaun, cu capul rezemat de tetieră şi cu ambele mâini pe volan, în zona orelor 10:00-14:00;",
+            "cea mai corectă poziţie în timpul conducerii auto este aceea care previne apariţia somnului;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Când se restituie permisul de conducere reţinut de către poliţie în vederea suspendării exercitării dreptului de a conduce?", 
+        "variante" : ["la hotărârea agentului de circulaţie;",
+            "la expirarea termenului de suspendare, dacă a fost promovat testul de verificare a cunoştinţelor, în situaţiile prevăzute de lege;",
+            "atunci când procesul verbal de contravenţie a fost anulat printr-o hotărâre judecătorească definitivă;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Circulaţi în spatele unui vehicul cu tracţiune animală şi constataţi că acesta doreşte să schimbe direcţia de mers. Cum procedaţi?", 
+        "variante" : ["semnalizaţi sonor intenţia de a-l depăşi;",
+            "permiteţi vehiculului efectuarea în siguranţă a manevrei;",
+            "nu aveţi nicio obligaţie;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Ce se înţelege prin conducere ecologică a unui autovehicul?", 
+        "variante" : ["obligaţia de a folosi în permanenţă carburant biodegradabil;",
+            "deplasări urbane cu bicicleta, pe jos sau cu alte mijloace care nu poluează atmosfera;",
+            "un ansamblu de măsuri comportamentale, de control sau de verificare a vehiculului, prin care se realizează o importantă economie de energie şi protecţia mediului;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Ce rând trebuie să ocupaţi şi de la ce distanţă, pentru a putea executa virajul la stânga într-o intersecţie nedirijată?", 
+        "variante" : ["rândul de lângă axa drumului, de la o distanţă de cel puţin 50 m;",
+            "rândul din mijloc, de la o distanţă de cel puţin 100 m;",
+            "rândul de lângă bordură, de la o distanţă de cel puţin 50 m;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Ce trebuie să facă un conducător de vehicul pentru ca depăşirea să fie considerată regulamentară?", 
+        "variante" : ["să se asigure că manevra poate fi executată în condiţii de siguranţă, după care să semnalizeze intenţia de schimbare a poziţiei de mers şi să efectueze depăşirea;",
+            "să semnalizeze din timp intenţia de schimbare a direcţiei de mers;e;",
+            "să mărească viteza de deplasare, astfel încât să scurteze timpul de realizare a depăşirii;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Viteza se reduce la semnalul:", 
+        "variante" : ["personalului autorizat din zona lucrărilor drumului public;",
+            "agentului de cale ferată;",
+            "poliţistului de frontieră;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Dacă circulaţi pe un drum naţional european (E), vă este interzis:", 
+        "variante" : ["să folosiţi pe timpul zilei luminile de întâlnire;",
+            "să opriţi pe partea carosabilă;",
+            "să depăşiţi;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"În care dintre situaţii se suspendă exercitarea dreptului de a conduce autovehicule?", 
+        "variante" : ["în cazul depăşirii în mod repetat, cu mai mult de 20 km/h, a vitezei maxime legale;",
+            "în cazul neopririi la semnalul agentului de cale ferată;",
+            "în cazul neprezentării în termen de 24 de ore la unitatea de poliţie competentă pe raza căreia s-a produs un accident cu avarierea vehiculului;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Circulaţi în spatele unui autobuz şi vă apropiaţi de o intersecţie semnalizată cu indicatorul „Oprire”. Cum veţi proceda în această situaţie pentru a traversa în siguranţă intersecţia?", 
+        "variante" : ["vă continuaţi deplasarea, traversând intersecţia o dată cu autobuzul, în cazul în care conducătorul acestuia a oprit şi s-a asigurat că prin intersecţie nu circulă alte vehicule;",
+            "vă opriţi în dreptul indicatorului, după care vă continuaţi drumul întrucât, dacă a trecut autobuzul, nu sunt pericole;",
+            "vă opriţi în locul în care aveţi vizibilitate maximă şi vă asiguraţi, chiar dacă în acelaşi mod a procedat şi conducătorul autobuzului;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Ce trebuie să faceţi pentru evitarea complicaţiilor în cazul unei fracturi?", 
+        "variante" : ["să imobilizaţi zona fracturată;",
+            "să sterilizaţi şi să pansaţi zona fracturată;",
+            "să aplicaţi un garou de cauciuc deasupra fracturii;"],
+        "corect" : 0
+    },
+    {
+        "intrebare":"Un autoturism este prevăzut cu centuri de siguranţă pentru toate locurile. Ce persoane sunt obligate să le folosească?", 
+        "variante" : ["persoanele de pe scaunele din spate;",
+            "toate persoanele;",
+            "persoanele de pe scaunele din faţă;"],
+        "corect" : 0
+    }
+]
